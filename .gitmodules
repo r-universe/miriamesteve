@@ -8,3 +8,8 @@
 	url = https://github.com/miriamesteve/eat
 	shallow = true
 	registered = true
+[submodule "GSSTDA"]
+	path = GSSTDA
+	url = https://github.com/miriamesteve/gsstda
+	shallow = true
+	registered = true
